@@ -1,0 +1,15 @@
+{
+  "name": "posts-frontend",
+  "version": "1.0.0",
+  "description": "Frontend application for CRUD operations on posts using vanilla JavaScript.",
+  "main": "public/main.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
